@@ -66,6 +66,7 @@
                 </select>
             </div>
 
+            
             <div class="mb-3">
                 <select class="form-select" aria-label="Default select example" name="fk_propietario" required>
                     <option selected>Propietario</option>
