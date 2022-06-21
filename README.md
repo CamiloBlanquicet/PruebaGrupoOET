@@ -1,4 +1,4 @@
-# Prueba Tecnica En Laravel
+# Prueba Técnica En Laravel
 
 > Laravel sample website with content retrieving from [prismic.io](https://prismic.io)
 
@@ -6,7 +6,7 @@ This project runs with Laravel Framework 9.18.0.
 
 ## Empecemos
 
-Debe tener instalado en su maquina lo siguiente: PHP (>= 8.0.0), [Laravel](https://laravel.com), [Composer](https://getcomposer.org) and [Node.js](https://nodejs.org).
+Debe tener instalado en su máquina  lo siguiente: PHP (>= 8.0.0), [Laravel](https://laravel.com), [Composer](https://getcomposer.org) and [Node.js](https://nodejs.org).
 
 ``` bash
 # Instalar Dependencias
@@ -27,11 +27,11 @@ Debe crear una base de datos en Mysql con el nombre "pruebatecnica" y ejecutar l
 php artisan migrate
 ```
 
-En caso tal de que las migraciones hayan devuelto un error, tambien se adjuntara un archivo con el Script para crear la base de datos.
+En caso tal de que las migraciones hayan devuelto un error, también se adjuntará un archivo con el Script para crear la base de datos de forma manual. 
 
 ## Correr Servidor
 
-Una ves haya realizado todos los pasos correctamente ya puede correr el siguiente comando para lanzar o correr el servidor local.
+Una vez haya realizado todos los pasos correctamente ya puede correr el siguiente comando para lanzar o correr el servidor local.
 
 ``` bash
 php artisan migrate
@@ -41,4 +41,6 @@ php artisan migrate
 
 ## Quedo Atento
 
-Quedo a la espera del resultado de la prueba, espero les guste y podamos trabajar juntos, coordial Saludo
+Quedo a la espera del resultado de la prueba, espero les guste y podamos trabajar juntos.
+
+Cordial Saludo.
