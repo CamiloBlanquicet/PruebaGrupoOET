@@ -18,7 +18,7 @@ php artisan key:generate
 
 # Construir CSS y JS con node 
 npm run dev
-
+```
 ## Base de datos
 
 Debe crear una base de datos en Mysql con el nombre "pruebatecnica" y ejecutar las migraciones
