@@ -1,8 +1,6 @@
 # Prueba Técnica En Laravel
 
-> Laravel sample website with content retrieving from [prismic.io](https://prismic.io)
-
-This project runs with Laravel Framework 9.18.0.
+Este proyecto corre en con la versión de Laravel Framework 9.18.0.
 
 ## Empecemos
 
@@ -27,7 +25,7 @@ Debe crear una base de datos en Mysql con el nombre "pruebatecnica" y ejecutar l
 php artisan migrate
 ```
 
-En caso tal de que las migraciones hayan devuelto un error, también se adjuntará un archivo con el Script para crear la base de datos de forma manual. 
+En caso tal de que las migraciones hayan devuelto un error, también se adjuntará un archivo con el script para crear la base de datos de forma manual. 
 
 ## Correr Servidor
 
